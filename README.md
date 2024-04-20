@@ -1,4 +1,7 @@
 # ConquerComplexity
+[治理：理解系统复杂性](./Governance1.md)
+
+
 在探讨如何征服复杂性（ConquerComplexity）的旅程中，我们面临着两个不可避免的原则
 
 ## 1. 复杂度的归宿
