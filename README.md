@@ -1,5 +1,6 @@
 # ConquerComplexity
-[治理：理解系统复杂性](Governance1.html)\
+[治理：理解系统复杂性](Governance1.html)
+
 [圈复杂度](Governance2.html)
 
 在探讨如何征服复杂性（ConquerComplexity）的旅程中，我们面临着两个不可避免的原则
